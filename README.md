@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XxGino16xX
+- 👋 Hi, I’m Giacomo
 - 👀 I’m interested in Fivem Development Projects
 - 🌱 I’m currently learning Java
 - 💊 I know to code in: Lua, Js and a bit of C# \ PHP
